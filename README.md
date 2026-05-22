@@ -1,5 +1,7 @@
-<h1 align="center">Hi I am Kate 🇰🇷 🇨🇳 🇺🇸</h1>
-
+<h1 align="center">Hi I am Kate 🇰🇷 </h1>
+<img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="25"/>
+<img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="25"/>
+<img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="25"/>
 ---
 
 ### 🌱 About Me
