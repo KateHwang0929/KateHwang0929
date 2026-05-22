@@ -1,10 +1,12 @@
-<h1 align="center">Hi I am Kate 🇰🇷 </h1>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="25"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="25"/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="25"/>
----
+<h1 align="center">
+  Hi, I am Kate
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="25"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="25"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="25"/>
+</h1>
 
-### 🌱 About Me
+---
+### About Me
 
 - Student at **University of Illinois Urbana-Champaign** 🧡💙
 - Current major: **Information Sciences + Data Science**
@@ -14,7 +16,7 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.instagram.com/d_uplicate06/" target="_blank">
