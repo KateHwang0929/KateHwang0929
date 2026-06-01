@@ -11,7 +11,7 @@
 - Student at **University of Illinois Urbana-Champaign** 🧡💙
 - Current major: **Information Sciences + Data Science**
 - Intended fields: **CS / Computer Engineering / Math**
-- Current interests: **Robotics + AI/ML** and **Cybersecurity**
+- Current interests: **Robotics + AI/ML** and **Learning Based Control**
 - Still exploring my direction and building projects along the way :)
 
 ---
