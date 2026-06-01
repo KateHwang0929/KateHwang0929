@@ -26,13 +26,3 @@
     <img src="https://img.shields.io/badge/Rednote-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,git,github,vscode,linux,raspberrypi" />
-</p>
-
----
